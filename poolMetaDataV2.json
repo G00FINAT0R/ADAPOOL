@@ -1,0 +1,7 @@
+{
+"name": "Goofinator test pool",
+"description": "My pool description",
+"ticker": "GOOF",
+"homepage": "https://goofinator.com"
+"extended": "https://a.adapools.org/extended-example?.json"
+}
